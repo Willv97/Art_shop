@@ -10,7 +10,7 @@ const artPieces = [
         title: "Art Piece 2",
         description: "Description for Art Piece 2",
         image: "images/ue_vegeta.png", // Provide the correct path to your image
-        price: "$150"
+        price: "$230"
     },
     // Add more art pieces as needed
 ];
